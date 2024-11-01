@@ -132,7 +132,7 @@
        <button className="py-3 px-8 bg-red-500 text-white rounded-md sm:ml-[120px] md:ml-[550px] mt-[160px]">
          View All Products
        </button>
-       <div className="border-b-2 w-[80%] sm:mx-10 ml-[140px] mt-[50px]"></div>
+       <div className="border-b-2 w-[80%] sm:mx-10 md:mx-32 ml-[140px] mt-[50px]"></div>
      </main>
    );
  }
